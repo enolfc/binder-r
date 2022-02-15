@@ -1,10 +1,10 @@
 # Specifying an R environment with a runtime.txt file
 
-Jupyter+R: [![Binder](http://binder.notebooks.egi.eu/badge_logo.svg)](http://binder.notebooks.egi.eu/v2/gh/binder-examples/r/master?filepath=index.ipynb)
+Jupyter+R: [![Binder](http://binder.notebooks.egi.eu/badge_logo.svg)](http://binder.notebooks.egi.eu/v2/gh/enolfc/binder-r/master?filepath=index.ipynb)
 
-RStudio: [![Binder](http://binder.notebooks.egi.eu/badge_logo.svg)](http://binder.notebooks.egi.eu/v2/gh/binder-examples/r/master?urlpath=rstudio)
+RStudio: [![Binder](http://binder.notebooks.egi.eu/badge_logo.svg)](http://binder.notebooks.egi.eu/v2/gh/enolfc/binder-r/master?urlpath=rstudio)
 
-RShiny: [![Binder](http://binder.notebooks.egi.eu/badge_logo.svg)](http://binder.notebooks.egi.eu/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
+RShiny: [![Binder](http://binder.notebooks.egi.eu/badge_logo.svg)](http://binder.notebooks.egi.eu/v2/gh/enolfc/binder-r/master?urlpath=shiny/bus-dashboard/)
 
 Binder supports using R and RStudio, with libraries pinned to a specific
 snapshot on [packagemanager.rstudio.com](https://packagemanager.rstudio.com/client/#/).
